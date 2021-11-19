@@ -1,6 +1,6 @@
 let fs = require("fs");
 let input = fs.readFileSync("test.txt").toString().trim().split("\n");
-
+['b a e k j o o n']
 input = input[0].split('')
 
 const alphabet = 'abcdefghijklmnopqrstuvwxyz'
